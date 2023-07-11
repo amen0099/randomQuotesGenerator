@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: darkslategray;
+    justify-content: center;
+    line-height: 5em;
+}
+h1{
+    border: 0.1em solid black ;
+    padding: 0.1em;
+    text-decoration: underline purple;
+    font-size:3em ;
+}
+h3{
+    font-size: 2em;
+    text-decoration: underline purple;
+}
+#button{
+    display: inline-block;
+    padding: 10px;
+    width: 100px;
+    background-color: lightpink;
+    border: 0.3em solid purple;
+    cursor: pointer;
+}
+
+#quote{
+    color: black;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    
+
+}
+#author {
+    color: black;
+    font-size: 40px;
+    margin-top: -20px;
+}
